@@ -13,3 +13,9 @@ Learning Python fundamentals for AI development.
 
 ## Goal
 Become comfortable writing Python daily.
+
+## Day 1 Completed
+Built beginner Python projects:
+- Calculator
+- Student Grade System
+- Expense Tracker
