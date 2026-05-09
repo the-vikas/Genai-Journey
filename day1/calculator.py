@@ -9,7 +9,7 @@ if operation == "+":
 
 elif operation == "-":
     sub = num1-num2
-    print(f"Sbstraction of both number is : {sub}")
+    print(f"Subtraction of both number is : {sub}")
 
 elif operation == "*":
     multi = num1*num2
